@@ -50,7 +50,7 @@ header nav a:hover {
     background-image:
     linear-gradient(to bottom, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)),
     url('/img/capa-freakyfriday.jpg');
-    height: 500px;
+    height: 450px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -84,6 +84,11 @@ header nav a:hover {
     margin-top: 20px;
     cursor: pointer;
     transition: .3s ease all;
+}
+
+.botao a {
+    text-decoration: none;
+    color: #000;
 }
 
 .botao:hover {
@@ -121,3 +126,36 @@ header nav a:hover {
 .carrossel-filmes {
     margin-top: 5px;
 }
+
+footer {
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 20px;
+    margin-top: 80px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+footer a:hover {
+    color: #aaa;
+}
+
+footer li {
+    list-style-type: none;
+}
+
+footer .item-socials {
+    margin-right: 15px;
+    font-size: 20px;
+}
+
