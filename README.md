@@ -21,6 +21,7 @@ Projeto realizado no Bootcamp Impulso React Web Developer, da Digital Innovation
 - Usei uma fonte mais fiel à da Netflix.
 - Personalizei os botões para ficarem mais parecidos com os atuais.
 - Adicionei um rodapé.
+- Adicionei um favicon igual ao da Netflix.
 
 
 
