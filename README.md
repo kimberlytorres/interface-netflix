@@ -5,11 +5,12 @@ Projeto realizado no Bootcamp Impulso React Web Developer, da Digital Innovation
 
 ## Screenshots
 
-![](C:\Users\Kim\Documents\Projetos\interface-netflix\img\screenshots\netflix1.png)
+<div align="center">
+  
+![netflix1](https://user-images.githubusercontent.com/91279271/138480855-9fe8c87b-d216-4d62-b3a4-accc5220ab3c.png)
 
-![](C:\Users\Kim\Documents\Projetos\interface-netflix\img\screenshots\netflix3.png)
-
-![](C:\Users\Kim\Documents\Projetos\interface-netflix\img\screenshots\netflix4.png)
+![netflix4](https://user-images.githubusercontent.com/91279271/138480875-2341b44e-4208-4e5e-894a-f927a3cca658.png)
+</div>
 
 ## Alterações e Desafios Propostos:
 
